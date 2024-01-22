@@ -5,11 +5,11 @@ Table of Contents
 
 ## Features
     Getting Started
-        Prerequisites
-        Installation
-        Usage
-        Customer
-        Owner/Admin
+    Prerequisites
+    Installation
+    Usage
+    Customer
+    Owner/Admin
     Technologies Used
     Contributing
     License
@@ -38,24 +38,24 @@ Installation
 
     Clone the Repository:
 
-    bash
+bash
 
-git clone https://git@github.com:KabiruH/Havan-cuts.git
-cd havan-cuts
+        git clone https://git@github.com:KabiruH/Havan-cuts.git
+        cd havan-cuts
 
-Backend Setup:
+### Backend Setup:
 
 bash
 
-cd backend
-npm install
+        cd backend
+        npm install
 
-Frontend Setup:
+### Frontend Setup:
 
 bash
 
-cd frontend
-npm install
+        cd frontend
+        npm install
 
 ## Database Configuration:
 
